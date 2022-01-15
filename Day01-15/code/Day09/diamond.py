@@ -22,7 +22,7 @@ class B(A):
 class C(A):
 
     def foo(self):
-        print('foo fo C')
+        print('foo of C')
 
 
 class D(B, C):
